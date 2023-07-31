@@ -65,7 +65,6 @@ Code Buzz is built with the following exciting technologies:
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/kunalPisolkar24/codeBuzz.svg)
 ![GitHub repo size](https://img.shields.io/github/repo-size/kunalPisolkar24/codeBuzz.svg)
 
-[![GitHub Clones](https://img.shields.io/github/clones/kunalPisolkar24/codeBuzz.svg)](https://github.com/kunalPisolkar24/codeBuzz/traffic)
 ![GitHub Views](https://komarev.com/ghpvc/?username=kunalPisolkar24&color=brightgreen)
 
 ## Getting Started 🚀
