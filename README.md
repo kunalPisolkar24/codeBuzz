@@ -1,34 +1,99 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Code Buzz 🐝
 
-## Getting Started
+[![GitHub stars](https://img.shields.io/github/stars/kunalPisolkar24/codeBuzz.svg?style=social)](https://github.com/kunalPisolkar24/codeBuzz/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/kunalPisolkar24/codeBuzz.svg?style=social)](https://github.com/kunalPisolkar24/codeBuzz/network/members)
+[![GitHub watchers](https://img.shields.io/github/watchers/kunalPisolkar24/codeBuzz.svg?style=social)](https://github.com/kunalPisolkar24/codeBuzz/watchers)
+[![GitHub issues](https://img.shields.io/github/issues/kunalPisolkar24/codeBuzz.svg)](https://github.com/kunalPisolkar24/codeBuzz/issues)
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/kunalPisolkar24/codeBuzz/blob/main/LICENSE)
 
-First, run the development server:
+Welcome to Code Buzz, the buzzing social network for developers! 🚀
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+## Tech Stack 🛠️
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Code Buzz is built with the following exciting technologies:
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- Next.js
+- Tailwind CSS
+- TypeScript
+- Prisma
+- NextAuth.js
+- Cloudinary
+- Google Cloud Console
+- Pusher
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## Dependencies 📦
 
-## Learn More
+| Package                | Version  |
+|------------------------|----------|
+| @headlessui/react      | ^1.7.15  |
+| @next-auth/prisma-adapter | ^1.0.7 |
+| @prisma/client         | ^5.0.0   |
+| @tailwindcss/forms     | ^0.5.3   |
+| @types/bcrypt          | ^5.0.0   |
+| @types/node            | 20.4.1   |
+| @types/react           | 18.2.14  |
+| @types/react-dom       | 18.2.6   |
+| axios                  | ^1.4.0   |
+| bcrypt                 | ^5.1.0   |
+| clsx                   | ^1.2.1   |
+| date-fns               | ^2.30.0  |
+| encoding               | ^0.1.13  |
+| eslint                 | 8.44.0   |
+| eslint-config-next     | 13.4.9   |
+| lodash                 | ^4.17.21 |
+| next                   | 13.4.9   |
+| next-auth              | ^4.22.1  |
+| next-cloudinary        | ^4.14.1  |
+| next-superjson-plugin  | ^0.5.9   |
+| postcss                | 8.4.25   |
+| pusher                 | ^5.1.3   |
+| pusher-js              | ^8.3.0   |
+| react                  | 18.2.0   |
+| react-dom              | 18.2.0   |
+| react-hook-form        | ^7.45.1  |
+| react-hot-toast        | ^2.4.1   |
+| react-icons            | ^4.10.1  |
+| react-select           | ^5.7.4   |
+| react-spinners         | ^0.13.8  |
+| tailwindcss            | 3.3.2    |
+| typescript             | 5.1.6    |
+| zustand                | ^4.3.9   |
 
-To learn more about Next.js, take a look at the following resources:
+## 📊 Stats
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+![GitHub All Releases](https://img.shields.io/github/downloads/kunalPisolkar24/codeBuzz/total.svg)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/kunalPisolkar24/codeBuzz.svg)
+![GitHub repo size](https://img.shields.io/github/repo-size/kunalPisolkar24/codeBuzz.svg)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+[![GitHub Clones](https://img.shields.io/github/clones/kunalPisolkar24/codeBuzz.svg)](https://github.com/kunalPisolkar24/codeBuzz/traffic)
+![GitHub Views](https://komarev.com/ghpvc/?username=kunalPisolkar24&color=brightgreen)
 
-## Deploy on Vercel
+## Getting Started 🚀
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Follow these steps to run the Code Buzz app locally:
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+1. Clone the repository
+2. Install dependencies:     `npm install`
+3. Run the development server:   `npm run dev`
+
+Open your favorite browser and navigate to `http://localhost:3000` to see Code Buzz in action! 🎉
+
+## Contribution Guidelines 🎉
+
+We welcome contributions from the developer community to make Code Buzz even better! Here are some ways you can contribute:
+
+- Report bugs or suggest improvements by opening issues.
+- Submit pull requests for bug fixes, new features, or documentation updates.
+- Help us spread the buzz by starring the repository and sharing with others!
+
+Join our buzzing community and let's build something amazing together! 🐝✨
+
+## License 📝
+
+Code Buzz is licensed under the [MIT License](https://github.com/kunalPisolkar24/codeBuzz/blob/main/LICENSE).
+
+## Acknowledgments 👏
+
+We express our heartfelt thanks to all contributors for their valuable efforts in making Code Buzz a buzzing success! 🙌
+
+Let's connect, collaborate, and code together at Code Buzz! 🚀 Join the buzzing world of coding and technology now! 🐝💻
